@@ -8,7 +8,7 @@ export const getAllWordsInContent = content => {
         html: true,
         body: true
     }
-    const words = content.split(/[^a-z]/g)
+    const words = content.split(/[^a-z0-9\-]/g) /* not worried about split classes */
     for (let word of words) {
         used[word] = true
     }
