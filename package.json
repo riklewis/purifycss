@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/purifycss/purifycss.git"
+    "url": "https://github.com/riklewis/purifycss.git"
   },
   "keywords": [
     "optimize",
@@ -38,13 +38,13 @@
     "remove",
     "unused"
   ],
-  "author": "Kenny Tran, Matthew Rourke, Phoebe Li",
+  "author": "Kenny Tran, Matthew Rourke, Phoebe Li, Rik Lewis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/purifycss/purifycss/issues"
+    "url": "https://github.com/riklewis/purifycss/issues"
   },
   "bin": {
     "purifycss": "./bin/purifycss"
   },
-  "homepage": "https://github.com/purifycss/purifycss"
+  "homepage": "https://github.com/riklewis/purifycss"
 }
