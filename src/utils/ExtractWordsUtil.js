@@ -36,7 +36,7 @@ export const getAllWordsInSelector = selector => {
             skipNextWord = true
             continue
         }
-        if (/[a-z]/.test(letter)) {
+        if (/[a-z0-9\-]/.test(letter)) { /* not worried about split classes */
             word += letter
         } else {
             addWord(words, word)
