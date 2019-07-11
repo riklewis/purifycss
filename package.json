@@ -21,7 +21,7 @@
     "rollup-plugin-commonjs": "^8.0.2",
     "rollup-plugin-node-builtins": "^2.1.0",
     "rollup-plugin-node-resolve": "^3.0.0",
-    "rollup-watch": "^3.2.2"
+    "rollup-watch": "^4.3.1"
   },
   "scripts": {
     "test": "jest index.js",
