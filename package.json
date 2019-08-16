@@ -18,7 +18,7 @@
     "jest": "^19.0.2",
     "rollup": "^1.16.7",
     "rollup-plugin-babel": "^2.7.1",
-    "rollup-plugin-commonjs": "^8.0.2",
+    "rollup-plugin-commonjs": "^10.0.2",
     "rollup-plugin-node-builtins": "^2.1.0",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-watch": "^3.2.2"
